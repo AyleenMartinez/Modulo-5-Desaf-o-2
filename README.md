@@ -2,6 +2,8 @@
 
 Resolucion desafio 2 del modulo 5 SQL
 
+![Tabla inscritos](Soluciones/Tabla-inscritos.png)
+
 Requerimientos.
 
 1. ¿Cuántos registros hay?
