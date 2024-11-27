@@ -1,7 +1,10 @@
 # Modulo-5-Desafío-2
 
-Resolucion desafio 2 del modulo 5 SQL
+Este repositorio contiene la resolución del segundo desafío del Módulo 5 en SQL. Se abordan consultas relacionadas con análisis de datos sobre registros de inscritos en una base de datos ficticia.
 
+El desafío incluye un total de **10 requerimientos** con respuestas en forma de consultas SQL y capturas de pantalla de los resultados.
+
+Tabla
 ![Tabla inscritos](Soluciones/Tabla-inscritos.png)
 
 Requerimientos.
